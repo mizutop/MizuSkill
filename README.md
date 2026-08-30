@@ -1,2 +1,3 @@
 # MizuSkill
 时间那么快，世界那么大，AI那么迅速的学习，自己的技能却开始停滞不前。
+Time progresses rapidly, the scope of global developments continues to expand, and artificial intelligence advances at an unprecedented pace—yet my professional competencies have not kept pace with these dynamic changes.
